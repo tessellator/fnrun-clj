@@ -17,7 +17,7 @@
   <scm>
     <connection>scm:git:git://github.com/tessellator/fnrun-clj.git</connection>
     <developerConnection>scm:git:ssh://github.com:tessellator/fnrun-clj.git</developerConnection>
-    <tag></tag>
+    <tag>559fc04c2c5af5075543359adb17891c56c6c97d</tag>
     <url>https://github.com/tessellator/fnrun-clj</url>
   </scm>
 
